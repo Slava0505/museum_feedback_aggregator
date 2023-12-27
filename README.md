@@ -5,7 +5,9 @@
 </div>
 
 ## About project
-It's a little solution to compare some museums with each other. It is implemented by aggregating museum reviews, determining them sentiment and extracting keyphrases.   
+It's a little solution to compare some museums with each other. It is implemented by aggregating museum reviews, determining them sentiment and extracting keyphrases.  
+[Pitching presentation](https://docs.google.com/presentation/d/1OKsV8XCdAYj2QRS6BV3_5bGBb55pnsHL/edit#slide=id.p1)  
+
 Example of output of museum review:
 ![](/src/rating.png)
 ![](/src/sentiment.png)
